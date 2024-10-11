@@ -224,7 +224,3 @@
     contraseña = ''.join(random.choice(caracteres) for _ in range(8))
     print(f"Contraseña generada: {contraseña}")
     ```
-
-23. Verificar palíndromo:
-    ```python
-    texto = input("Ingrese una ca

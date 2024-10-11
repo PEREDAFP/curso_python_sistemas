@@ -1,3 +1,4 @@
+# Interpretado vs Compilado #
 **interpretado**.
 
 ### Ejemplo de código en C (Compilado)

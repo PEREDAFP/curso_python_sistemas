@@ -1,4 +1,4 @@
-¡Claro! Vamos a comenzar con un ejemplo sencillo de código en C y Python para explicar las diferencias entre un lenguaje **compilado** y uno **interpretado**.
+**interpretado**.
 
 ### Ejemplo de código en C (Compilado)
 
